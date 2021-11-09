@@ -2,3 +2,7 @@ This is
 a  file 
 with text 
 in it
+
+|\---/|
+| o_o |
+ \_^_/
